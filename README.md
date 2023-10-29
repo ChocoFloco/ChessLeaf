@@ -1,11 +1,10 @@
 <p align="center">
     <img width="350" src="/img/logo-h.png">
     <br><br>
-    <a href="https://discord.gg/T3PmKS75M2"><img alt="Join ChessMint discord!" src="https://img.shields.io/badge/Discord-ChessMint-0?style=flat&logo=discord"></a>
-    <a href="https://github.com/thedemons/ChessMint/releases"><img alt="Download ChessMint" src="https://img.shields.io/github/downloads/thedemons/ChessMint/total?color=%2331c754&label=Download&logo=googlechrome&logoColor=%23ffffff"></a>
+    <a href="#"><img alt="Join ChessLeaf discord!" src="https://img.shields.io/badge/Discord-ChessLeaf-0?style=flat&logo=discord"></a>
 </p>
 
-# ChessMint
+# ChessLeaf
 A chess.com extension for analyzing your game during play!
 
 ## Features
@@ -54,7 +53,7 @@ npm i -g typescript
 ``` 
 Clone this repo and build it:
 ```none
-git clone https://github.com/thedemons/ChessMint.git
+git clone https://github.com/ChocoFloco/chessleaf.git
 cd ChessLeaf
 npm i
 npm run build
